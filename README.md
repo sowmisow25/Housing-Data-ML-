@@ -77,7 +77,7 @@ The dataset includes information about houses, capturing details such as:
 ## Results
 
 ### Best Model Performance:
-- Achieved high accuracy and low error with [insert best-performing model here].
+- Achieved high accuracy and low error with Linear Regression.
 
 ### Key Insights:
 - Location and area significantly influence house prices.
